@@ -1,1 +1,1 @@
-# spon-plus-ezpz
+# Spiegel Online Plus Decoder
